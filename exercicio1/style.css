@@ -1,0 +1,29 @@
+body {
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: blueviolet;
+    align-items: center;
+    border: 2px red solid;
+}
+
+header {
+    background-color: aqua;
+    color: black;
+}
+
+h2 {
+    background-color: wheat;
+}
+
+section {
+    background-color: green;
+}
+
+section .titulo-secao {
+    color: aliceblue;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
